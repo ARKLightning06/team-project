@@ -63,4 +63,4 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 
 Team Member Signatures:
 
-Mostafa Hasan, Maria Victoria Ramos Sanchez
+Mostafa Hasan, Maria Victoria Ramos Sanchez, Andrew Koes, Ehinomen Ewalefoh, Marina Mendieta Rodriguez Ramos, Vida Enyichukwu Udensi
