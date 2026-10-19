@@ -3,6 +3,6 @@ Clearly state *name*, *link*, *purpose* and whether if there is any further note
 
 | name of api | link | purpose | additional info |
 |-------------|------|---------|-----------------|
-|             |      |         |                 |
+|deezer  |             https://developers.deezer.com/login?redirect=/api   |    music     |                 |
 |             |      |         |                 |
 |             |      |         |                 |
